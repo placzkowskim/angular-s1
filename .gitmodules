@@ -1,0 +1,3 @@
+[submodule "microfrontends/s2"]
+	path = microfrontends/s2
+	url = https://github.com/placzkowskim/angular-s2.git
